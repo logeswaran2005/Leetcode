@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/logeswaran2005/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/logeswaran2005/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/logeswaran2005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/logeswaran2005/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/logeswaran2005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/logeswaran2005/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/logeswaran2005/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/logeswaran2005/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/logeswaran2005/Leetcode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
 | ------- |
