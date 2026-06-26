@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/logeswaran2005/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/logeswaran2005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/logeswaran2005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/logeswaran2005/Leetcode/tree/master/0229-majority-element-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/logeswaran2005/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/logeswaran2005/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/logeswaran2005/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/logeswaran2005/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/logeswaran2005/Leetcode/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/logeswaran2005/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
