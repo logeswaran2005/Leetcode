@@ -4,18 +4,18 @@ class Solution {
         Arrays.sort(nums);
         for(int i=0;i<nums.length;i++)
         {
-            for(int j=i+1;j<nums.length;j++){
-            int left=j+1;
-            int right=nums.length-1;
-            while(left<right)
+            for(int j=i+1;j<nums.length;j++)
             {
-                long sum=(long)nums[i]+nums[j]+nums[left]+nums[right];
-                if(sum==target)
+                int left=j+1;
+                int right=nums.length-1;
+                while(left<right)
                 {
-                    res.add(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
-                    left++;
-                    right--;
-                }
+                    long sum=(long)nums[i]+nums[j]+nums[left]+nums[right];
+                    if(sum==target){
+                        res.add(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
+                        left++;
+                        right--;
+                    }
                 else if(sum<target)
                 {
                     left++;
@@ -23,9 +23,9 @@ class Solution {
                 else{
                     right--;
                 }
+                }
             }
         }
-        }
-        return new ArrayList<>(res);
+        return new ArrayList(res);
     }
 }
