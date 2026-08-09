@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/logeswaran2005/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/logeswaran2005/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logeswaran2005/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/logeswaran2005/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/logeswaran2005/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/logeswaran2005/Leetcode/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/logeswaran2005/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/logeswaran2005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/logeswaran2005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/logeswaran2005/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/logeswaran2005/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/logeswaran2005/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/logeswaran2005/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/logeswaran2005/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logeswaran2005/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/logeswaran2005/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/logeswaran2005/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/logeswaran2005/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
