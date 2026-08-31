@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/logeswaran2005/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/logeswaran2005/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/logeswaran2005/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/logeswaran2005/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/logeswaran2005/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/logeswaran2005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/logeswaran2005/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/logeswaran2005/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/logeswaran2005/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/logeswaran2005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/logeswaran2005/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/logeswaran2005/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/logeswaran2005/Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/logeswaran2005/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
